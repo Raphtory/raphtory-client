@@ -2,7 +2,11 @@
 
 This is the python client for the Raphtory project
 
+Install via pip 
 
+`pip install raphtory-client` 
+
+* PyPi [https://pypi.org/project/raphtory-client/](https://pypi.org/project/raphtory-client/)
 * Github [https://github.com/Raphtory/Raphtory/](https://github.com/Raphtory/Raphtory/)
 * Website [https://raphtory.github.io/](https://raphtory.github.io/)
 * Slack [https://raphtory.slack.com](https://raphtory.slack.com)

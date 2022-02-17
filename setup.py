@@ -12,7 +12,7 @@ readme = (current_dir / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="raphtory-client",
-    version="0.1.1",
+    version="0.1.2",
     description="Raphtory Python Client - Temporal Graph Analytics",
     long_description=readme,
     long_description_content_type="text/markdown",
@@ -43,7 +43,7 @@ setup(
         'networkx',
         'numpy',
         'pandas',
-        'pulsar-client==2.8.0.post0',
+        'pulsar-client',
         'python-dateutil',
         'pytz',
         'requests',

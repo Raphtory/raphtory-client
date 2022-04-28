@@ -11,8 +11,6 @@ jobs:
         with:
           python-version: 3.9
       - name: Install pypa/build
-        with:
-          packages_dir: python/
         run: >-
           python -m
           pip install

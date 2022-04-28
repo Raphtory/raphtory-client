@@ -1,4 +1,7 @@
-# Raphtory Client
+# THIS IS NOW ARCHIVED. THE PROJECT HAS BEEN MOVED TO https://github.com/Raphtory/Raphtory/python
+
+
+## Raphtory Client
 
 This is the python client for the Raphtory project
 
